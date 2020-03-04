@@ -1,6 +1,7 @@
 # jest-homework
 
-1. clone repo
+## Getting Started
+1. clone repo or look here https://github.com/jimibue/jest-starter for setup instructions
 2. run `yarn`
 3. implement and export all functions for numberArray as defined below in app.js
 4. create tests in `__tests__/app.test.js`
@@ -8,7 +9,7 @@
 
 ### Notes
 - `yarn run test` runs all test
-- try using array iterators like filer, map, etc where
+- try using array iterators like filter, map, etc where
 
 
 ### Bonus
