@@ -45,7 +45,7 @@ arraySum(numberArray) // => 10;  hint use reduce
 // return true if every item greater than 0
 allNumbersGreaterThanZero(numberArray) // => true; use every
 
-// return true if some item greater than 0
+// return true if one or more items in array are odd
 someNumbersAreOdd(numberArray) // => true; use some
 
 // return array double and even
