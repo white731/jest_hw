@@ -16,15 +16,21 @@
 - implement bonus methods on array of artist objects as defined below
 
 ```javascript
-   // EXPORT ALL AS FUNCTIONS AND KEEP THE NAMES THE SAME
+// EXPORT ALL AS FUNCTIONS AND KEEP THE NAMES THE SAME
+
 // ways to export
+
 // export const methodName = (param) => {
 // }
+
 // ----or---------
+
 // export methodName function(param){
 // }
-numberArray = [1,2,3,4]
+
+
 // ARRAY ITERATOR METHODS
+numberArray = [1,2,3,4]
 
 // return array with double values in array
 doubleArray(numberArray) // => [2,4,6,8];  hint use map 
