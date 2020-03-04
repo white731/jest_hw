@@ -2,10 +2,18 @@
 
 1. clone repo
 2. run `yarn`
-3. implement, export and test all functions below
+3. implement and export all functions for numberArray as defined below in app.js
+4. create tests in `__tests__/app.test.js`
+
 
 ### Notes
-`yarn run test` runs all test
+- `yarn run test` runs all test
+- try using array iterators like filer, map, etc where
+
+
+### Bonus
+- Think about and create test for edge cases
+- implement bonus methods on array of artist objects as defined below
 
 ```javascript
    // EXPORT ALL AS FUNCTIONS AND KEEP THE NAMES THE SAME
@@ -32,12 +40,16 @@ evensOnlyAndDoubleArray(numberArray) // => [4,8]; // use map and filter
 // find an item method return 'not found' if not found
 findItem(numberArray, 1) //=> 1
 sortArray(numberArray) //=> [4,3,2,1] *desc*
+
+
+// -----BONUS------
+// ARRAY ITERATOR METHODS ON Objects with name age 
+
 artists = [
   {name: 'a', likes:100},
   {name: 'c', likes:99},
   {name: 'c', likes:101}, 
 ]
-// ARRAY ITERATOR METHODS ON Objects with name age 
 // doubles likes of artist
 doubleLikes(artists)
 // => [
