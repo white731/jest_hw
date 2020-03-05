@@ -10,6 +10,7 @@
 ### Notes
 - `yarn run test` runs all test
 - try using array iterators like filter, map, etc where
+- pay attention to where instructions seem incorrect/contradict or might contradict
 
 
 ### Bonus
