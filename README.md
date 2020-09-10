@@ -1,10 +1,10 @@
 # jest-homework
 
 ## Getting Started
-1. clone repo or look here https://github.com/jimibue/jest-starter for setup instructions
+1. clone repo or look here https://github.com/jimibue/jest_starter for setup instructions
 2. run `yarn`
 3. implement and export all functions for numberArray as defined below in app.js
-4. create tests in `__tests__/app.test.js`
+4. create tests in `tests/app.test.js`
 
 
 ### Notes
