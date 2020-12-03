@@ -93,9 +93,9 @@ export const doubleLikes = (artists) => {
 //   {name: 'c', likes:202},  
 // ]; 
 
-export const moreThan100Likes = (artists) => {
-  return artists.filter(artist => artist.likes > 100)
-}// =>[ {name: 'c', likes:101} ]; // use filter
+// export const moreThan100Likes = (artists) => {
+//   return artists.filter(artist => artist.likes < 100)
+// }// =>[ {name: 'c', likes:101} ]; // use filter
 
 // //  return an array of strings of artist name
 // justArtistMoreThan100Likes(artists) //=> ['c']; // use filter
